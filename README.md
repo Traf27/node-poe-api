@@ -1,3 +1,8 @@
+Future Project
+1. Learn Typescript (JS)
+2. Add support for private stash tabs
+3. Add new influence property
+
 [![npm version](https://badge.fury.io/js/node-poe-api.svg)](https://badge.fury.io/js/node-poe-api)
 
 # Path of Exile API
